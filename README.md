@@ -10,7 +10,7 @@
 
 ## 👀 Preview
 
-<img src="preview.png" width="866" alt="A directory open in yazi with the Osaka Jade theme" />
+<img src="preview.png" width="929" alt="A directory open in yazi with the Osaka Jade theme" />
 
 ## 🎨 Installation
 
