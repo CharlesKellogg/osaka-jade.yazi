@@ -6,8 +6,6 @@
  Osaka Jade Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
-4. [ ] Modify the content and preview image in the README to fit your flavor.
-
 ## 👀 Preview
 
 <img src="preview.png" width="929" alt="A directory open in yazi with the Osaka Jade theme" />
