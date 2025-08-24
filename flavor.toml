@@ -183,7 +183,7 @@ rules = [
 	{ mime = "application/vnd.*",      fg = "#549e6a" },
 
 	# Fallback
-	{ name = "*", fg = "#c6d0f5" },
+	{ name = "*", fg = "#2DD5B7" },
 	{ name = "*/", fg = "#509475" }
 ]
 
