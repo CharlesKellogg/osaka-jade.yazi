@@ -62,8 +62,8 @@ unset_alt  = { fg = "#509475", bg = "#23372B" }
 
 [status]
 overall = { fg = "#509475" }
-sep_left  = { open = "", close = "" }
-sep_right = { open = "", close = "" }
+sep_left  = { open = "", close = "" }
+sep_right = { open = "", close = "" }
 
 
 # Progress
